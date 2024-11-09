@@ -5,13 +5,13 @@ A brief description of what this project does and who it's for
 ______________________________________________________
 
 > [!NOTE]  ##Conformacion de equipo
-> [!NOTE]  Nombre            |  Rol - Encargado
-> [!NOTE]  ----------------- |  -----------------
-> [!NOTE]  Juan José B.      |  x
-> [!NOTE]  Jhoan Stiven      |  x
-> [!NOTE]  Miguel Suarez     |  Frontend
-> [!NOTE]  Cristhian Arenas  |  x
-> [!NOTE]  Marlon pa         |  x
+> [!NOTE] | Nombre            |  Encargado
+> [!NOTE] | ----------------- |  -----------------
+> [!NOTE] | Juan José B.      |  x
+> [!NOTE] | Jhoan Stiven      |  x
+> [!NOTE] | Miguel Suarez     |  Frontend
+> [!NOTE] | Cristhian Arenas  |  x
+> [!NOTE] | Marlon pa         |  x
 
 
 ______________________________________________________
