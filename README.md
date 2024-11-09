@@ -3,7 +3,6 @@
 A brief description of what this project does and who it's for
 
 ______________________________________________________
-> [!NOTE]  
 ##Conformacion de equipo
 | Nombre            |  Encargado
 | ----------------- |  -----------------
