@@ -5,5 +5,5 @@ document.getElementById('loadButton').addEventListener('click', function(event) 
     // Redirige a la página después de 5 segundos
     setTimeout(function() {
         window.location.href = '/Rules/';
-    }, 3000);
+    }, 3500);
 });
